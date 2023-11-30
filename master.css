@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color:red;
+    background-color:black;
 }
 
 .header{
@@ -27,6 +27,33 @@ body{
 	height: 300px;
 	font-size:100px;
 	color:#262626;
-	vertical-align: baseline;
+	vertical-align: baseline;	
 }
 
+h3{
+	color:white;
+	font-family:Helvetica;
+	display:inline-block;
+	font-size: 30px;
+	margin-right:526px;
+	border-bottom:5px solid #730099;
+}
+
+p{
+	color:white;
+	font-size:25px;
+	font-family: Lucida Console;
+}
+
+h1{
+	color:white;
+}
+
+img{
+	width:500px;
+	height:500px;
+}
+
+.information{
+	border:50px solid black;
+}
