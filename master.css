@@ -5,11 +5,10 @@
 
 body{
     background: linear-gradient(to bottom, #9900cc 0%, #000000 100%);
-}
-
-.header{
    
 }
+
+
 .content_2{
    min-height: 80vh;
 }
@@ -62,4 +61,14 @@ img{
 h1{
 	color:#990000;
 	font-size:50px;
+}
+
+.h3{
+	color:#990000;
+	font-size:35px;
+}
+
+.footer{
+	font-size:20px;
+	font-family:cursive;
 }
