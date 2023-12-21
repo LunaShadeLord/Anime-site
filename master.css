@@ -8,7 +8,6 @@ body{
    
 }
 
-
 .content_2{
    min-height: 80vh;
 }
@@ -16,17 +15,21 @@ body{
 .header, .footer{
     min-height: 5vh;
 }
-.content,content_3{
-    
+
+.content, .content_3{
+     min-height: 80vh;
 }
 
 .first{
 	background-image:url(ANIME.jpg);
 	background-size:100% 100%;
+}
+
+.p2{
 	height: 300px;
 	font-size:100px;
 	color:#262626;
-	vertical-align: baseline;	
+	vertical-align: baseline;
 }
 
 button{
@@ -51,11 +54,12 @@ h1{
 img{
 	width:500px;
 	height:500px;
+	margin: 20px;
 }
 
 .button{
 	display: inline-block;
-	text-indent: 400px;
+	text-indent: 20vw;
 }
 
 h1{
@@ -69,6 +73,10 @@ h1{
 }
 
 .footer{
-	font-size:20px;
+	font-size:15px;
 	font-family:cursive;
+}
+
+.br{
+	 min-height: 15vh;
 }
